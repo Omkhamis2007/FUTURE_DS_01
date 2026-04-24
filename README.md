@@ -26,5 +26,8 @@ This project analyzes business sales data to identify trends, top-performing pro
 - Expand in top regions  
 - Promote top-selling products  
 
+## 📷 Dashboard Preview
+![Dashboard](ig.png)
+
 ## Author
 - OM KHAMIS
